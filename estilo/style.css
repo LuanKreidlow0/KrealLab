@@ -31,7 +31,7 @@ header{
 header > h1{
     padding-top: 50px;
     font-variant: small-caps;
-    font-family: var(--font03);
+    font-family: var(--font01);
     font-size: 10vw;
 }
 
@@ -42,7 +42,7 @@ header > p{
 }
 
 header a{
-    font-family: var(--font03);
+    font-family: var(--font01);
     font-size: 3.5vw;
 }
 
